@@ -1,0 +1,20 @@
+1.Following tools have been used for this project--
+
+      Visual Studio 2019
+      MS SQL Server 2019
+      MS SQL Server management studio
+      Dotnet SDK
+      
+2.Database Setup and Scripting--
+
+     Change the Connection string's Server name as per yours in "appsettings.json".For me it was my local server.
+
+     Run the scripts inside the project's scripts Folder.
+
+     Run the command "update-database" from Visual studio's Package Manager Console.
+
+3.Run the .sln file to open the project in Visual studio and then run it.
+
+
+BEST OF LUCK.
+Rayhan Roman
